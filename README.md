@@ -164,8 +164,12 @@ they are directly connected, and
 they are connected to many same genes.
 
 From adjacency to TOM:
+
 correlation matrix -> similarity between genes
+
 adjacency matrix -> correlation raised to soft-threshold power
+
 TOM -> incorporates shared neighbors
+
 
 dissTOM is a distance matrix for gene clustering.
